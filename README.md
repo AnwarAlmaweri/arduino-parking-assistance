@@ -20,7 +20,7 @@ An Arduino takes readings from an HC-SR04 ultrasonic sensor and controls a buzze
 
 ## Demo and photos
 
-[Watch the parking assistance demo](parking-assistance-demo.mp4)
+[Watch the parking assistance demo](parking-assistance-demo%20%281%29.mp4)
 
 The photos in this repository show the full setup and close-ups of the wiring.
 
